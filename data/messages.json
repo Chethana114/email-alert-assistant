@@ -1,0 +1,74 @@
+[
+  {
+    "id": "197a28acf7c07ac4",
+    "subject": "Internship",
+    "timestamp": 1750778681000,
+    "unread": false,
+    "alert_sent": false,
+    "label": "important"
+  },
+  {
+    "id": "197a18bfed883283",
+    "subject": "Looking forward to collaborate with you",
+    "timestamp": 1750761982000,
+    "unread": false,
+    "alert_sent": false,
+    "label": "important"
+  },
+  {
+    "id": "197a1737e97b4f3b",
+    "subject": "Task Assignment and Java Development",
+    "timestamp": 1750760376000,
+    "unread": false,
+    "alert_sent": false,
+    "label": "important"
+  },
+  {
+    "id": "197a153f83d7fb1f",
+    "subject": "Team sync meeting",
+    "timestamp": 1750758310000,
+    "unread": false,
+    "alert_sent": false,
+    "label": "important"
+  },
+  {
+    "id": "197a1535bd98256f",
+    "subject": "Joining letter and onboarding details",
+    "timestamp": 1750758268000,
+    "unread": false,
+    "alert_sent": false,
+    "label": "important"
+  },
+  {
+    "id": "197a184154e5a833",
+    "subject": "Internship offer letter",
+    "timestamp": 1750761463000,
+    "unread": false,
+    "alert_sent": false,
+    "label": "important"
+  },
+  {
+    "id": "197a1516c5941ed9",
+    "subject": "Congratulations! Here's Your Offer Letter from Acme Corp",
+    "timestamp": 1750758142000,
+    "unread": false,
+    "alert_sent": false,
+    "label": "important"
+  },
+  {
+    "id": "197b96b22ea9faaa",
+    "subject": "Congratulations!your offer letter from Innoventex Technologies",
+    "timestamp": 1751162483000,
+    "unread": true,
+    "alert_sent": false,
+    "label": "important"
+  },
+  {
+    "id": "197b96a44ad9e30f",
+    "subject": "Your joining letter is here .welcome to TechNova!",
+    "timestamp": 1751162426000,
+    "unread": false,
+    "alert_sent": false,
+    "label": "important"
+  }
+]

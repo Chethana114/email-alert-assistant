@@ -1,0 +1,32 @@
+# === Python ===
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+
+# === Gmail API Secrets ===
+token.json
+credentials.json
+
+# === Streamlit ===
+.streamlit/
+**/.streamlit/
+
+# === Hugging Face & Transformers Cache ===
+~/.cache/huggingface/
+~/.cache/torch/
+
+# === VS Code ===
+.vscode/
+
+# === OS-specific ===
+.DS_Store
+Thumbs.db
+
+# === Backup or temporary files ===
+*.bak
+*.swp
+*.swo

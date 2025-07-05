@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "subject": "Your Offer Letter from TechNova",
+    "body": "Congratulations! Please find your offer letter attached for the Software Engineer role at TechNova.",
+    "type": "direct",
+    "category": "offer_letter",
+    "label": "important"
+  },
+  {
+    "id": 2,
+    "subject": "Welcome Aboard - Next Steps",
+    "body": "We are excited to have you join our team. Your official joining letter and details will follow.",
+    "type": "indirect",
+    "category": "joining_letter",
+    "label": "important"
+  },
+  {
+    "id": 3,
+    "subject": "Meeting Scheduled: Project Kickoff",
+    "body": "A meeting is set for Monday at 10 AM to discuss the new project. Please see the attached agenda.",
+    "type": "direct",
+    "category": "meeting",
+    "label": "important"
+  },
+  {
+    "id": 4,
+    "subject": "HR Documents for Your Attention",
+    "body": "Attached are the documents that require your review before starting your new role.",
+    "type": "direct",
+    "category": "attachment",
+    "label": "important"
+  },
+  {
+    "id": 5,
+    "subject": "Biggest Summer Sale - Up to 70% OFF!",
+    "body": "Don't miss out on amazing deals in our summer sale. Shop now and save big on your favorite brands.",
+    "type": "direct",
+    "category": "shopping",
+    "label": "unimportant"
+  },
+  {
+    "id": 6,
+    "subject": "Exclusive Cashback Offer Just for You",
+    "body": "Earn extra cashback on every purchase this weekend. Check out the details on our website.",
+    "type": "direct",
+    "category": "promotion",
+    "label": "unimportant"
+  },
+  {
+    "id": 7,
+    "subject": "Team Onboarding Details",
+    "body": "Welcome! We have arranged an orientation session along with essential documentation for a smooth start.",
+    "type": "indirect",
+    "category": "joining_letter",
+    "label": "important"
+  },
+  {
+    "id": 8,
+    "subject": "Invitation: Quarterly Business Review",
+    "body": "Please join us for a quarterly business review meeting. The calendar invite is attached.",
+    "type": "direct",
+    "category": "meeting",
+    "label": "important"
+  },
+  {
+    "id": 9,
+    "subject": "Update on Your Application",
+    "body": "Thank you for your interest. Please review the attached documents for further details on the role.",
+    "type": "indirect",
+    "category": "attachment",
+    "label": "important"
+  },
+  {
+    "id": 10,
+    "subject": "Grab the Best Deals: Flash Sale Starts Now!",
+    "body": "Hurry up! Our flash sale is live with discounts on electronics, fashion, and more.",
+    "type": "direct",
+    "category": "promotion",
+    "label": "unimportant"
+  },
+  {
+    "id": 11,
+    "subject": "Offer Details Enclosed",
+    "body": "We are pleased to offer you the position at Zenware. Your offer letter is attached—please review and respond.",
+    "type": "direct",
+    "category": "offer_letter",
+    "label": "important"
+  },
+  {
+    "id": 12,
+    "subject": "Your First Day – Important Information",
+    "body": "Welcome! Please go through the enclosed documents for instructions on starting your new journey with us.",
+    "type": "indirect",
+    "category": "joining_letter",
+    "label": "important"
+  },
+  {
+    "id": 13,
+    "subject": "Reminder: Upcoming Strategy Session",
+    "body": "A follow-up meeting is planned for Thursday. Please add it to your calendar.",
+    "type": "indirect",
+    "category": "meeting",
+    "label": "important"
+  },
+  {
+    "id": 14,
+    "subject": "Contract and Policy Attachments",
+    "body": "Attached you will find all the necessary documents regarding your employment contract and company policies.",
+    "type": "direct",
+    "category": "attachment",
+    "label": "important"
+  },
+  {
+    "id": 15,
+    "subject": "Special Discount: Up to 50% Off",
+    "body": "Don't miss our exclusive offer. Shop online and save up to 50% on selected items.",
+    "type": "direct",
+    "category": "promotion",
+    "label": "unimportant"
+  },
+  {
+    "id": 16,
+    "subject": "Your New Role at InnoTech",
+    "body": "Congratulations! Please review your attached offer letter for details regarding your new position.",
+    "type": "direct",
+    "category": "offer_letter",
+    "label": "important"
+  },
+  {
+    "id": 17,
+    "subject": "Office Onboarding Procedures",
+    "body": "We look forward to welcoming you soon. Detailed instructions and guidelines will be shared shortly.",
+    "type": "indirect",
+    "category": "joining_letter",
+    "label": "important"
+  },
+  {
+    "id": 18,
+    "subject": "Project Review Meeting Confirmation",
+    "body": "Your attendance is requested for a project review session on Wednesday at 3 PM. Please see attached minutes.",
+    "type": "direct",
+    "category": "meeting",
+    "label": "important"
+  },
+  {
+    "id": 19,
+    "subject": "Document Pack for New Hire",
+    "body": "Kindly find attached the documents required for your onboarding process.",
+    "type": "direct",
+    "category": "attachment",
+    "label": "important"
+  },
+  {
+    "id": 20,
+    "subject": "Clearance Sale: Limited Time Offers",
+    "body": "Take advantage of our clearance sale. Great deals are waiting for you in our online store!",
+    "type": "direct",
+    "category": "shopping",
+    "label": "unimportant"
+  },
+  {
+    "id": 21,
+    "subject": "Your Offer Is Here!",
+    "body": "Attached is your formal offer letter for the position at AlphaCorp. We await your confirmation.",
+    "type": "direct",
+    "category": "offer_letter",
+    "label": "important"
+  },
+  {
+    "id": 22,
+    "subject": "Onboarding – Welcome and Next Steps",
+    "body": "We are delighted to welcome you. Details about your start and necessary forms are enclosed.",
+    "type": "indirect",
+    "category": "joining_letter",
+    "label": "important"
+  },
+  {
+    "id": 23,
+    "subject": "Team Sync Meeting Scheduled",
+    "body": "A team sync is arranged for tomorrow. Please check your email for the meeting invite and agenda.",
+    "type": "direct",
+    "category": "meeting",
+    "label": "important"
+  },
+  {
+    "id": 24,
+    "subject": "New Employee Paperwork",
+    "body": "Please find attached the paperwork required to complete your employment process.",
+    "type": "direct",
+    "category": "attachment",
+    "label": "important"
+  },
+  {
+    "id": 25,
+    "subject": "Shop the Latest Trends",
+    "body": "Discover the newest arrivals in fashion and accessories. Shop our latest collection now!",
+    "type": "direct",
+    "category": "shopping",
+    "label": "unimportant"
+  },
+  {
+    "id": 26,
+    "subject": "Super Sale: Discounts Galore",
+    "body": "Our store-wide super sale is live! Enjoy massive discounts on electronics and home appliances.",
+    "type": "direct",
+    "category": "promotion",
+    "label": "unimportant"
+  },
+  {
+    "id": 27,
+    "subject": "Congratulations and Welcome",
+    "body": "We’re excited about your new role. You will receive further details and forms very soon.",
+    "type": "indirect",
+    "category": "joining_letter",
+    "label": "important"
+  },
+  {
+    "id": 28,
+    "subject": "New Job Offer from Beta Solutions",
+    "body": "Your offer letter is attached for the role at Beta Solutions. Please review and respond at your earliest convenience.",
+    "type": "direct",
+    "category": "offer_letter",
+    "label": "important"
+  },
+  {
+    "id": 29,
+    "subject": "Reminder: Upcoming Orientation",
+    "body": "This is a reminder of your orientation session scheduled for next Monday. Details are enclosed.",
+    "type": "indirect",
+    "category": "joining_letter",
+    "label": "important"
+  },
+  {
+    "id": 30,
+    "subject": "Board Meeting Announcement",
+    "body": "Please join the board meeting this Friday at 4 PM. The detailed agenda is attached.",
+    "type": "direct",
+    "category": "meeting",
+    "label": "important"
+  },
+  {
+    "id": 31,
+    "subject": "Onboarding Forms Enclosed",
+    "body": "The necessary forms for your onboarding process are attached. Please complete and return them at your earliest convenience.",
+    "type": "direct",
+    "category": "attachment",
+    "label": "important"
+  },
+  {
+    "id": 32,
+    "subject": "Mega Discount on Electronics",
+    "body": "Upgrade your tech today with our mega discount on top brand electronics. Limited period offer!",
+    "type": "direct",
+    "category": "promotion",
+    "label": "unimportant"
+  },
+  {
+    "id": 33,
+    "subject": "Your New Journey Begins",
+    "body": "We’re excited to have you with us. Your official onboarding details will follow soon.",
+    "type": "indirect",
+    "category": "joining_letter",
+    "label": "important"
+  },
+  {
+    "id": 34,
+    "subject": "Invitation to Department Meeting",
+    "body": "You are invited to attend the department meeting scheduled for Wednesday. Kindly review the attached agenda.",
+    "type": "direct",
+    "category": "meeting",
+    "label": "important"
+  },
+  {
+    "id": 35,
+    "subject": "Employment Contract Attached",
+    "body": "Attached, please find your employment contract along with essential terms and conditions.",
+    "type": "direct",
+    "category": "attachment",
+    "label": "important"
+  },
+  {
+    "id": 36,
+    "subject": "Flash Sale: Up to 60% Off",
+    "body": "Hurry! Shop now to enjoy up to 60% off on selected items in our online store.",
+    "type": "direct",
+    "category": "shopping",
+    "label": "unimportant"
+  },
+  {
+    "id": 37,
+    "subject": "Offer Notification from Gamma Inc.",
+    "body": "We are pleased to extend an offer for the advertised position. Please see the attached offer letter for full details.",
+    "type": "direct",
+    "category": "offer_letter",
+    "label": "important"
+  },
+  {
+    "id": 38,
+    "subject": "Start Date Confirmation",
+    "body": "Looking forward to working together. Further details about your induction process will be shared soon.",
+    "type": "indirect",
+    "category": "joining_letter",
+    "label": "important"
+  },
+  {
+    "id": 39,
+    "subject": "Project Discussion Forum",
+    "body": "Please join the discussion forum meeting scheduled for tomorrow. The meeting link is attached.",
+    "type": "direct",
+    "category": "meeting",
+    "label": "important"
+  },
+  {
+    "id": 40,
+    "subject": "Submission of Required Documents",
+    "body": "Find attached the documents requested to complete your profile in our system.",
+    "type": "direct",
+    "category": "attachment",
+    "label": "important"
+  },
+  {
+    "id": 41,
+    "subject": "Deal of the Day: Special Prices!",
+    "body": "Check out today's deal of the day on fashion and home decor. Limited time only!",
+    "type": "direct",
+    "category": "promotion",
+    "label": "unimportant"
+  },
+  {
+    "id": 42,
+    "subject": "Your Offer at Delta Dynamics",
+    "body": "Attached is your official offer letter for the position at Delta Dynamics. Kindly confirm upon review.",
+    "type": "direct",
+    "category": "offer_letter",
+    "label": "important"
+  },
+  {
+    "id": 43,
+    "subject": "Orientation Session Details",
+    "body": "We look forward to introducing you to the team. Orientation session details are enclosed.",
+    "type": "indirect",
+    "category": "joining_letter",
+    "label": "important"
+  },
+  {
+    "id": 44,
+    "subject": "Weekly Team Meeting",
+    "body": "A reminder for the weekly team meeting tomorrow. Please check the attached schedule.",
+    "type": "direct",
+    "category": "meeting",
+    "label": "important"
+  },
+  {
+    "id": 45,
+    "subject": "HR Package Enclosed",
+    "body": "Attached are the necessary HR documents required to complete your onboarding process.",
+    "type": "direct",
+    "category": "attachment",
+    "label": "important"
+  },
+  {
+    "id": 46,
+    "subject": "Limited Time Offer: Extra Savings",
+    "body": "Shop now and avail extra savings during our limited time promotion. Visit our website for more info.",
+    "type": "direct",
+    "category": "promotion",
+    "label": "unimportant"
+  },
+  {
+    "id": 47,
+    "subject": "Role Confirmation at Epsilon Ltd.",
+    "body": "Congratulations! Your offer letter is attached for the position at Epsilon Ltd.",
+    "type": "direct",
+    "category": "offer_letter",
+    "label": "important"
+  },
+  {
+    "id": 48,
+    "subject": "Welcome Note & Onboarding Information",
+    "body": "We are happy to welcome you. Further instructions about your start date and preparations are coming soon.",
+    "type": "indirect",
+    "category": "joining_letter",
+    "label": "important"
+  },
+  {
+    "id": 49,
+    "subject": "Team Huddle Reminder",
+    "body": "Our quick huddle is scheduled for tomorrow morning. Please join via the attached link.",
+    "type": "direct",
+    "category": "meeting",
+    "label": "important"
+  },
+  {
+    "id": 50,
+    "subject": "Important Documents for Verification",
+    "body": "The attached documents are required for the verification of your credentials. Please review and submit.",
+    "type": "direct",
+    "category": "attachment",
+    "label": "important"
+  },
+  {
+    "id": 51,
+    "subject": "Summer Discounts Await You",
+    "body": "Enjoy summer shopping with discounts on clothing, shoes, and accessories. Visit our store today!",
+    "type": "direct",
+    "category": "shopping",
+    "label": "unimportant"
+  },
+  {
+    "id": 52,
+    "subject": "Exclusive Promotion: Save More!",
+    "body": "Avail exciting discounts and offers on your next purchase. Limited period offer!",
+    "type": "direct",
+    "category": "promotion",
+    "label": "unimportant"
+  },
+  {
+    "id": 53,
+    "subject": "Offer Confirmation from Zeta Corp",
+    "body": "We are delighted to extend this offer for the advertised position. Please review the attached offer letter.",
+    "type": "direct",
+    "category": "offer_letter",
+    "label": "important"
+  },
+  {
+    "id": 54,
+    "subject": "Start Date and Onboarding Information",
+    "body": "Detailed information regarding your start date and initial training will be communicated shortly.",
+    "type": "indirect",
+    "category": "joining_letter",
+    "label": "important"
+  },
+  {
+    "id": 55,
+    "subject": "Important: Project Alignment Meeting",
+    "body": "We have scheduled a project alignment meeting for tomorrow. The meeting link and agenda are attached.",
+    "type": "direct",
+    "category": "meeting",
+    "label": "important"
+  },
+  {
+    "id": 56,
+    "subject": "Employee Verification Documents",
+    "body": "Attached are the documents required for your employee verification process.",
+    "type": "direct",
+    "category": "attachment",
+    "label": "important"
+  },
+  {
+    "id": 57,
+    "subject": "New Arrivals: Shop Now",
+    "body": "Check out our latest arrivals in fashion and accessories. Shop the newest collection online.",
+    "type": "direct",
+    "category": "shopping",
+    "label": "unimportant"
+  },
+  {
+    "id": 58,
+    "subject": "Special Offer on Home Appliances",
+    "body": "Upgrade your home with our special discounts on appliances. Offer valid for a short time only.",
+    "type": "direct",
+    "category": "promotion",
+    "label": "unimportant"
+  },
+  {
+    "id": 59,
+    "subject": "Your Position at Theta Industries",
+    "body": "Please find attached your offer letter for the position at Theta Industries. We look forward to your response.",
+    "type": "direct",
+    "category": "offer_letter",
+    "label": "important"
+  },
+  {
+    "id": 60,
+    "subject": "Pre-Boarding Information",
+    "body": "Welcome aboard! Further details about your induction process will be shared soon along with preparatory documents.",
+    "type": "indirect",
+    "category": "joining_letter",
+    "label": "important"
+  },
+  {
+    "id": 61,
+    "subject": "Project Kickoff Briefing",
+    "body": "You are invited to a project kickoff briefing tomorrow morning. Please review the attached agenda.",
+    "type": "direct",
+    "category": "meeting",
+    "label": "important"
+  },
+  {
+    "id": 62,
+    "subject": "Attached: Policy Update Documents",
+    "body": "Please review the attached policy updates, which are effective immediately.",
+    "type": "direct",
+    "category": "attachment",
+    "label": "important"
+  },
+  {
+    "id": 63,
+    "subject": "Seasonal Clearance: Grab Your Favorites",
+    "body": "Our seasonal clearance is here with up to 80% off. Shop now before stocks run out!",
+    "type": "direct",
+    "category": "shopping",
+    "label": "unimportant"
+  },
+  {
+    "id": 64,
+    "subject": "Exclusive Deal: Extra 10% Off",
+    "body": "Use code SAVE10 at checkout to enjoy an extra 10% discount on your purchase.",
+    "type": "direct",
+    "category": "promotion",
+    "label": "unimportant"
+  },
+  {
+    "id": 65,
+    "subject": "Offer Notification for the Marketing Role",
+    "body": "Please review your attached offer letter for the Marketing Manager position at Iota Inc.",
+    "type": "direct",
+    "category": "offer_letter",
+    "label": "important"
+  },
+  {
+    "id": 66,
+    "subject": "Welcome and Next Steps",
+    "body": "Congratulations on joining our team. More details regarding your induction will be shared soon.",
+    "type": "indirect",
+    "category": "joining_letter",
+    "label": "important"
+  },
+  {
+    "id": 67,
+    "subject": "Department Meeting Reminder",
+    "body": "This is a reminder for the department meeting scheduled for tomorrow. Please check the attached schedule.",
+    "type": "direct",
+    "category": "meeting",
+    "label": "important"
+  },
+  {
+    "id": 68,
+    "subject": "HR Documentation Attached",
+    "body": "Kindly review the HR documentation attached to complete your onboarding process.",
+    "type": "direct",
+    "category": "attachment",
+    "label": "important"
+  },
+  {
+    "id": 69,
+    "subject": "Deal Alert: Unbeatable Prices",
+    "body": "Shop now to take advantage of unbeatable prices on a wide range of products. Limited time offer!",
+    "type": "direct",
+    "category": "promotion",
+    "label": "unimportant"
+  },
+  {
+    "id": 70,
+    "subject": "Invitation: Product Brainstorming Session",
+    "body": "We invite you to a brainstorming session for our upcoming product launch. The meeting details are attached.",
+    "type": "direct",
+    "category": "meeting",
+    "label": "important"
+  },
+  {
+    "id": 71,
+    "subject": "Your New Offer Awaits",
+    "body": "Attached is the offer letter outlining your role and benefits. We look forward to hearing from you.",
+    "type": "direct",
+    "category": "offer_letter",
+    "label": "important"
+  },
+  {
+    "id": 72,
+    "subject": "Welcome to the Family",
+    "body": "We're thrilled to have you with us. Official instructions and a welcome pack will be sent shortly.",
+    "type": "indirect",
+    "category": "joining_letter",
+    "label": "important"
+  },
+  {
+    "id": 73,
+    "subject": "All-Hands Meeting Details",
+    "body": "Please attend the all-hands meeting scheduled for Friday. The meeting agenda is attached.",
+    "type": "direct",
+    "category": "meeting",
+    "label": "important"
+  },
+  {
+    "id": 74,
+    "subject": "Important: Updated Employee Guidelines",
+    "body": "Find attached the updated guidelines that are effective immediately. Please review at your earliest convenience.",
+    "type": "direct",
+    "category": "attachment",
+    "label": "important"
+  },
+  {
+    "id": 75,
+    "subject": "Weekend Sale Spectacular",
+    "body": "Enjoy amazing discounts this weekend on all products. Hurry, while stocks last!",
+    "type": "direct",
+    "category": "shopping",
+    "label": "unimportant"
+  },
+  {
+    "id": 76,
+    "subject": "Exclusive Online Offer",
+    "body": "Don't miss our exclusive online offer with significant savings on a range of products.",
+    "type": "direct",
+    "category": "promotion",
+    "label": "unimportant"
+  },
+  {
+    "id": 77,
+    "subject": "Offer Letter for Senior Analyst",
+    "body": "Attached is your offer letter for the Senior Analyst position at Lambda Partners. Please confirm your acceptance.",
+    "type": "direct",
+    "category": "offer_letter",
+    "label": "important"
+  },
+  {
+    "id": 78,
+    "subject": "Pre-Joining Information",
+    "body": "Welcome aboard! Detailed information regarding the onboarding process will be shared shortly.",
+    "type": "indirect",
+    "category": "joining_letter",
+    "label": "important"
+  },
+  {
+    "id": 79,
+    "subject": "Weekly Sync-up Meeting",
+    "body": "A reminder for our weekly sync-up meeting tomorrow. Please check your calendar for the invite.",
+    "type": "direct",
+    "category": "meeting",
+    "label": "important"
+  },
+  {
+    "id": 80,
+    "subject": "Document Submission Request",
+    "body": "Attached are the forms and documents required to update your employee profile. Please review and submit.",
+    "type": "direct",
+    "category": "attachment",
+    "label": "important"
+  },
+  {
+    "id": 81,
+    "subject": "Hot Deals on Latest Gadgets",
+    "body": "Grab the latest gadgets at unbeatable prices. Check out our online store for more details.",
+    "type": "direct",
+    "category": "shopping",
+    "label": "unimportant"
+  },
+  {
+    "id": 82,
+    "subject": "Special Savings Event",
+    "body": "Join our special savings event this weekend and get extra discounts on select products.",
+    "type": "direct",
+    "category": "promotion",
+    "label": "unimportant"
+  },
+  {
+    "id": 83,
+    "subject": "Offer Approval Notification",
+    "body": "Your offer letter for the position at NuTech has been finalized and is attached for your approval.",
+    "type": "direct",
+    "category": "offer_letter",
+    "label": "important"
+  },
+  {
+    "id": 84,
+    "subject": "Next Steps for Your Onboarding",
+    "body": "Further instructions on your onboarding process are being prepared. Expect detailed communication soon.",
+    "type": "indirect",
+    "category": "joining_letter",
+    "label": "important"
+  },
+  {
+    "id": 85,
+    "subject": "Strategy Meeting Invitation",
+    "body": "You are invited to a strategy meeting scheduled for tomorrow. Please find the meeting details attached.",
+    "type": "direct",
+    "category": "meeting",
+    "label": "important"
+  },
+  {
+    "id": 86,
+    "subject": "HR Forms and Guidelines",
+    "body": "Attached are the HR forms and guidelines that need to be reviewed and completed at your earliest convenience.",
+    "type": "direct",
+    "category": "attachment",
+    "label": "important"
+  },
+  {
+    "id": 87,
+    "subject": "Daily Deals Just for You",
+    "body": "Discover our daily deals on a variety of products. Visit our website to learn more.",
+    "type": "direct",
+    "category": "shopping",
+    "label": "unimportant"
+  },
+  {
+    "id": 88,
+    "subject": "Limited Time Promotional Offer",
+    "body": "Avail our limited time promotional offer with unbelievable discounts on electronics and more.",
+    "type": "direct",
+    "category": "promotion",
+    "label": "unimportant"
+  },
+  {
+    "id": 89,
+    "subject": "Offer Confirmation and Details",
+    "body": "Your offer for the position at Omicron Industries is attached. Please review and confirm.",
+    "type": "direct",
+    "category": "offer_letter",
+    "label": "important"
+  },
+  {
+    "id": 90,
+    "subject": "Welcome and Onboarding Process",
+    "body": "We’re excited to have you on board. Detailed information regarding your onboarding process will follow.",
+    "type": "indirect",
+    "category": "joining_letter",
+    "label": "important"
+  },
+  {
+    "id": 91,
+    "subject": "Client Meeting Confirmation",
+    "body": "A client meeting is scheduled for tomorrow. Please see the attached invite and agenda.",
+    "type": "direct",
+    "category": "meeting",
+    "label": "important"
+  },
+  {
+    "id": 92,
+    "subject": "Submission of Onboarding Documents",
+    "body": "Attached, please find the necessary documents required to complete your onboarding process.",
+    "type": "direct",
+    "category": "attachment",
+    "label": "important"
+  },
+  {
+    "id": 93,
+    "subject": "Weekend Clearance Sale",
+    "body": "Enjoy massive discounts this weekend. Shop now and save big on your favorite brands!",
+    "type": "direct",
+    "category": "shopping",
+    "label": "unimportant"
+  },
+  {
+    "id": 94,
+    "subject": "Exclusive Promotional Savings",
+    "body": "Take advantage of exclusive promotional savings on a wide range of products. Offer ends soon!",
+    "type": "direct",
+    "category": "promotion",
+    "label": "unimportant"
+  },
+  {
+    "id": 95,
+    "subject": "Offer Dispatch from PiTech",
+    "body": "Attached is your offer letter for the position at PiTech. Kindly review and let us know if you accept.",
+    "type": "direct",
+    "category": "offer_letter",
+    "label": "important"
+  },
+  {
+    "id": 96,
+    "subject": "Pre-Onboarding Welcome",
+    "body": "We’re glad you’re joining us! Further details about your onboarding process and schedule will be shared shortly.",
+    "type": "indirect",
+    "category": "joining_letter",
+    "label": "important"
+  },
+  {
+    "id": 97,
+    "subject": "Monthly Team Meeting",
+    "body": "Our monthly team meeting is scheduled for next week. Please review the attached agenda for details.",
+    "type": "direct",
+    "category": "meeting",
+    "label": "important"
+  },
+  {
+    "id": 98,
+    "subject": "HR Policy and Procedure Update",
+    "body": "Attached are the updated HR policies and procedures. Please review them carefully.",
+    "type": "direct",
+    "category": "attachment",
+    "label": "important"
+  },
+  {
+    "id": 99,
+    "subject": "Hot New Collection Launch",
+    "body": "Be the first to shop our hot new collection. Explore the latest trends in our online store today!",
+    "type": "direct",
+    "category": "shopping",
+    "label": "unimportant"
+  },
+  {
+    "id": 100,
+    "subject": "Limited Offer: Extra Rewards Await",
+    "body": "Avail our limited offer today and earn extra rewards on every purchase. Check out our website for more details.",
+    "type": "direct",
+    "category": "promotion",
+    "label": "unimportant"
+  }
+]
